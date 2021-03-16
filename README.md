@@ -1,1 +1,1 @@
-# jacksons-rule
+Jackson rule implemented in python. 
